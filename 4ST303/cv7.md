@@ -1,0 +1,2 @@
+# Shlukování proměnných
+* korelační matice
